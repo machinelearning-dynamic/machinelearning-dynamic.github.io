@@ -1623,11 +1623,11 @@
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #77d8ff;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37697 15%, #52abff 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37697 15%, #52abff 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37697 15%, #52abff 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37697 15%, #52abff 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1644,7 +1644,7 @@
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #77d8ff;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2255,7 +2255,7 @@
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: #935d8c;
+		color: #77d8ff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
