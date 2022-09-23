@@ -1624,10 +1624,10 @@
 
 	body {
 		background-color: #77d8ff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37697 25%, #359ac9 75%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37697 25%, #359ac9 75%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37697 25%, #359ac9 75%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37697, #6c2ca0 40%, #359ac9);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(35deg, #e37697, #6c2ca0 40%, #359ac9 90%, #35bfc9);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(35deg, #e37697, #6c2ca0 40%, #359ac9 90%, #35bfc9);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(35deg, #e37697, #6c2ca0 40%, #359ac9 90%, #35bfc9);
+		background-image: url("images/overlay.png"), linear-gradient(35deg, #e37697, #6c2ca0 40%, #359ac9 90%, #35bfc9);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1686,7 +1686,7 @@
 		transition: color 0.2s ease, border-bottom 0.2s ease;
 		text-decoration: none;
 		border-bottom: solid 1px;
-		color: #7bc0e0;
+		color: #82c1df;
 	}
 
 		a:hover {
